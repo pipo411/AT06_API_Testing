@@ -1,3 +1,4 @@
+# function replace(s, old, new) that replaces all occurrences of old with new in a string s
 def replace(text, toChange, changed):
     words = text.split(toChange)
     return changed.join(words)

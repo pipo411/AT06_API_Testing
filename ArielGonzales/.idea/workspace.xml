@@ -21,8 +21,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Long_Names.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/session1/Long_Names.py">
+      <file leaf-file-name="Membership.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/session1/Membership.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildArray.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/session3/BuildArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sort_Alphabet.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/session3/Sort_Alphabet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practice1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/session3/Practice1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practice2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/session3/Practice2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5">
+              <caret line="18" column="117" lean-forward="false" selection-start-line="18" selection-start-column="117" selection-end-line="18" selection-end-column="117" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeNumer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/session2/PrimeNumer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -31,51 +81,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Odd_Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/session2/Odd_Number.py">
+      <file leaf-file-name="JoinSplitExample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/session3/JoinSplitExample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="0">
+              <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sum_To_N.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/session2/Sum_To_N.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Url_Verification.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/session2/Url_Verification.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="days_in_month.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/session2/days_in_month.py">
+      <file leaf-file-name="DaysInMonth.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/session2/DaysInMonth.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prime.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/session2/prime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,26 +106,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arithmetic_Operators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/session1/Arithmetic_Operators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="membership.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/session1/membership.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -136,10 +136,20 @@
         <option value="$PROJECT_DIR$/python/session2/Odd.py" />
         <option value="$PROJECT_DIR$/python/session2/prime.py" />
         <option value="$PROJECT_DIR$/python/session2/Odd_Number.py" />
-        <option value="$PROJECT_DIR$/python/session2/Url_Verification.py" />
         <option value="$PROJECT_DIR$/python/session2/days_in_month.py" />
         <option value="$PROJECT_DIR$/python/session2/AreaOfCircle.py" />
         <option value="$PROJECT_DIR$/python/session2/Sum_To_N.py" />
+        <option value="$PROJECT_DIR$/python/session2/Celphone_Number_Validation.py" />
+        <option value="$PROJECT_DIR$/python/session2/findall_example.py" />
+        <option value="$PROJECT_DIR$/python/session3/join_split_example.py" />
+        <option value="$PROJECT_DIR$/python/session2/Url_Verification.py" />
+        <option value="$PROJECT_DIR$/python/session3/build_array.py" />
+        <option value="$PROJECT_DIR$/python/session3/alphabet.py" />
+        <option value="$PROJECT_DIR$/python/session3/BuildArray.py" />
+        <option value="$PROJECT_DIR$/python/session3/JoinSplitExample.py" />
+        <option value="$PROJECT_DIR$/python/session3/Practice1.py" />
+        <option value="$PROJECT_DIR$/python/session3/Practice2.py" />
+        <option value="$PROJECT_DIR$/python/session3/Sort_Alphabet.py" />
       </list>
     </option>
   </component>
@@ -188,6 +198,12 @@
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="session2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ArielGonzales" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArielGonzales" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="session3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -197,7 +213,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Todoist/coreJava2/coreJavaProject/AT06_API_Testing" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -216,106 +232,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AreaOfCircle">
-    <configuration name="AreaOfCircle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Practice2">
+    <configuration name="Practice1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ArielGonzales" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/session2/AreaOfCircle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/session3/Practice1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Sum_To_N" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Practice2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ArielGonzales" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/session2/Sum_To_N.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/session3/Practice2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Url_Verification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alphabet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ArielGonzales" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/session2/Url_Verification.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\API\API\AT06_API_Testing\ArielGonzales\python\session3\Sort_Alphabet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="days_in_month" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="build_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ArielGonzales" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/session2/days_in_month.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\API\API\AT06_API_Testing\ArielGonzales\python\session3\BuildArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="join_split_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/session3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ArielGonzales" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/session2/prime.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\API\API\AT06_API_Testing\ArielGonzales\python\session3\JoinSplitExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.prime" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Sum_To_N" />
-      <item index="2" class="java.lang.String" itemvalue="Python.days_in_month" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Url_Verification" />
-      <item index="4" class="java.lang.String" itemvalue="Python.AreaOfCircle" />
+      <item index="0" class="java.lang.String" itemvalue="Python.join_split_example" />
+      <item index="1" class="java.lang.String" itemvalue="Python.build_array" />
+      <item index="2" class="java.lang.String" itemvalue="Python.alphabet" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Practice1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Practice2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.AreaOfCircle" />
-        <item index="1" class="java.lang.String" itemvalue="Python.days_in_month" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Url_Verification" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Sum_To_N" />
-        <item index="4" class="java.lang.String" itemvalue="Python.prime" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Practice2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Practice1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.alphabet" />
+        <item index="3" class="java.lang.String" itemvalue="Python.build_array" />
+        <item index="4" class="java.lang.String" itemvalue="Python.join_split_example" />
       </list>
     </recent_temporary>
   </component>
@@ -361,12 +377,12 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/session1/Assignment_Operators.py">
+    <entry file="file://$PROJECT_DIR$/python/session1/AssignmentOperators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -374,7 +390,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/session1/Comparison_Operators.py">
+    <entry file="file://$PROJECT_DIR$/python/session1/ComparisonOperators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
@@ -382,7 +398,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/session1/Identity_Operators.py">
+    <entry file="file://$PROJECT_DIR$/python/session1/IdentityOperators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
@@ -390,15 +406,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/session1/membership.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/session1/Arithmetic_Operators.py">
+    <entry file="file://$PROJECT_DIR$/python/session1/ArithmeticOperators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -406,15 +414,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/session1/Practice1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/session1/Long_Names.py">
+    <entry file="file://$PROJECT_DIR$/python/session1/LongNames.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -422,7 +422,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/session2/days_in_month.py">
+    <entry file="file://$PROJECT_DIR$/python/session2/Celphone_Number_Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/session2/findall_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/session2/UrlVerification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/session2/SumToN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/session2/OddNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/session2/DaysInMonth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
@@ -438,34 +478,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/session2/Odd_Number.py">
+    <entry file="file://$PROJECT_DIR$/python/session1/Practice1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="442">
+          <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/session2/Url_Verification.py">
+    <entry file="file://$PROJECT_DIR$/python/session1/Membership.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/session2/prime.py">
+    <entry file="file://$PROJECT_DIR$/python/session2/PrimeNumer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/session2/Sum_To_N.py">
+    <entry file="file://$PROJECT_DIR$/python/session3/BuildArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/session3/JoinSplitExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/session3/Practice1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/session3/Practice2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="18" column="117" lean-forward="false" selection-start-line="18" selection-start-column="117" selection-end-line="18" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/session3/Sort_Alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
