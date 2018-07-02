@@ -17,10 +17,12 @@ def createDictionary():
             try:
                 key = int(input("Set the Key between 1 to 100: "))
                 if not 0 < key < 101:
-                    return ("Invalid Input, put a number between 1 to 100: ")
+                    invalid_key = ValueError("{0} is not a valid key".format(key))
+                    raise invalid_key
                 values = input("Set the value: ")
                 if not re.fullmatch("^[a-z]{1,8}", values):
-                    return ("Invalid Input put a valid username:")
+                    invalid_username = ValueError("{0} is not a valid username".format(key))
+                    raise invalid_username
                 break
             except ValueError:
                 print("Invalid format, try again: ")
