@@ -3,7 +3,7 @@ import re
 #Verify The format of the username
 def usernameRegex():
     username = input("Insert the Username: ")
-    regex_username = re.compile("[a-z0-9]+")
+    regex_username = re.compile("^[a-z0-9]+")
     if regex_username.fullmatch(username):
         return "Valid Username"
     else:
@@ -12,7 +12,7 @@ def usernameRegex():
 #Verify The format of the password
 def passwordRegex():
     password = input("Insert the Password: ")
-    regex_password = re.compile("[a-zA-Z0-9]{8,16}")
+    regex_password = re.compile("^[a-zA-Z0-9]{8,16}$")
     if regex_password.fullmatch(password):
         return "Valid Password"
     else:
