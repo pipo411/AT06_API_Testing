@@ -46,16 +46,14 @@ def setEmployees():
                                 , Salary.netSalary(globalSalary, discount))
 
     return buildAnswer(employees)
-    # company_employees[company_employees[i].getEmployeeIDPE()]
 
 
 def askPiecesQuantityCommercial():
     pieces_quantity = int(input("The pieces quantity for commercial employee: "))
     return pieces_quantity
-    # employee.setPiecesSell(pieces_quantity)
 
 
-def askPiecesQuantityProduction(employee):
+def askPiecesQuantityProduction():
     efective_pieces = int(input("The efective pieces quantity for production employee: "))
     defective_pieces = int(input("The defective pieces quantity for production employee: "))
     return Salary.productionEmployee(efective_pieces, defective_pieces)
