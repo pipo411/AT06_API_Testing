@@ -1,0 +1,69 @@
+
+When and why BDD was defined
+
+At the beggining of the proyect, BDD is a development methodology
+that define for the team (PO, Dev,the QA team write scenarios).
+
+
+The most important aspects of BDD
+
+-It does a focus in the logic bussiness
+-Permit to write user stories, scenarios and acceptance test
+
+Why is useful and when could be applied.
+
+	- Collaboration.- The PO, DEV & QA team could participate
+	-Simple Specification.- Is easy to understand.
+	-Easy Feedback.- Easy to explain because the features use a human language.
+	-Avoid rework in requirements definition.- Avoid the missesunderstanting problems.
+	-Self documentation.- Easy to understand from the documentation.
+	-Focus on Behavior.-  Context, Results based in the Behavior.
+
+Which type of teams could implement BDD
+
+A team that start at the beginning with the develop and the test for the product could work with BDD,
+because any user storie can be a feature then from the feature we can write more scenaries,
+then in order to verify the behavior for each of them.
+
+*Structure of a feature – Give an example
+
+Feature: Create a new Game
+Description: After the user open the game for first time, he could start a new Campain.
+
+Scenario: Create a new Campain from main menu
+    Given: A open main menu in the game
+    And: A valid user credentials
+    When: I press the "New Campain" button
+    And: I fill all the requirement fields
+    And: Press the "Create Game" button
+    Then: I should create a new campain.
+
+
+*Structure of a user story – Give an example
+
+Tittle: Send SMS to verify my  credit
+As a final user
+I want to send an SMS to know my credit
+So that the final user could recieve a message with his credit information
+
+*Structure of a scenario – Give an example
+
+Scenario: Create a new Campain from main menu
+    Given: A open main menu in the game
+    And: A valid user credentials
+    When: I press the "New Campain" button
+    And: I fill all the requirement fields
+    And: Press the "Create Game" button
+    Then: I should create a new campain.
+
+*Differences between BDD and BDT
+BDD:
+Focus in the logic  business, it start at the begins with the business goal
+Behavior-driven development specifies that tests of any unit of software
+should be specified in terms of the desired behavior.
+
+BDT:
+Is a redeable language that allows you to describe a behavior of a feature
+use the user stories in order to write scenarios
+
+
